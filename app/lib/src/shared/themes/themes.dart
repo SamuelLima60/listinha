@@ -16,7 +16,7 @@ ThemeData get lightTheme => ThemeData(
       segmentedButtonTheme: _segmentedButtonTheme,
     );
 
-ThemeData get dartTheme => ThemeData(
+ThemeData get darkTheme => ThemeData(
       useMaterial3: true,
       colorScheme: _darkColorScheme,
       appBarTheme: AppBarTheme(
